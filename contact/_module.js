@@ -4524,31 +4524,14 @@ function create_fragment$7(ctx) {
 			props: {
 				logo: {
 					"image": {
-						"alt": "",
-						"src": "",
-						"url": "",
-						"size": null
+						"alt": "Str3dlok's logo",
+						"src": "https://hlxzadjobbfemkosjsgj.supabase.co/storage/v1/object/public/images/842ed571-216a-47b3-b410-0261cc82b3c6/1672630090136favicon.png",
+						"url": "https://hlxzadjobbfemkosjsgj.supabase.co/storage/v1/object/public/images/842ed571-216a-47b3-b410-0261cc82b3c6/1672630090136favicon.png",
+						"size": 53
 					},
-					"title": "Str3dlok"
+					"title": "STR3DLOK"
 				},
-				site_nav: [
-					{
-						"link": { "url": "/work", "label": "Work" }
-					},
-					{
-						"link": {
-							"url": "/services",
-							"label": "Services",
-							"active": false
-						}
-					},
-					{
-						"link": { "url": "/company", "label": "Company" }
-					},
-					{
-						"link": { "url": "/contact", "label": "Contact" }
-					}
-				],
+				site_nav: [],
 				footer_links: [
 					{
 						"link": { "url": "/work", "label": "Work" }
